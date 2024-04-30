@@ -1,0 +1,54 @@
+.card-head-input{
+    background-color:rgb(241, 241, 241) ;
+    width: 30%;
+    border: 2px solid rgb(218, 218, 218);
+    padding: 5px 0px 5px 0px;
+    border-bottom:none ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* border-bottom:2px solid rgb(241, 241, 241); */
+
+}
+.card-head-input div{
+    border-radius: 9px;
+    background-color: #fff;
+    display: inline;
+    color: black;
+    margin: 1px;
+    min-width: 500px;
+}
+form .card{
+    border-radius: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.card_restapi{
+    border: 2px solid rgb(218, 218, 218);
+    background-color:rgb(241, 241, 241) 
+}
+.filed-style{
+    padding-bottom: 15px;
+    display: block;
+}
+.input-style{
+    font-family: inherit;
+    border: 0;
+    border-bottom: 2px solid rgb(219, 216, 216);
+    outline: 0;
+    color: black;
+    padding: 1px 0;
+    background-color: rgb(241, 241, 241);
+    
+}
+.add-icon{
+    color: rgb(4, 168, 31);
+    position: relative;
+    top: 10px;
+}
+.input-type{
+    border: 3px solid rgb(205, 209, 209);
+    margin: none;
+    text-decoration: dotted;
+    
+}
