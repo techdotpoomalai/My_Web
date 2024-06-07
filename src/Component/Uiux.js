@@ -11,13 +11,12 @@ import '../Component/css/UiuxStyle.css';
 
 export default function Uiux(){
     return(
-        <div className="px-1">
-            <Card className="class-bg">
-                <Card.Body>
-                   <Card>
-                        
-                   </Card>
-                </Card.Body>
+        <div className="p-1 pt-5">
+            <p>This is UI page</p>
+            <Card className="main-card">
+                <div>
+                    
+                </div>
             </Card>
         </div>
         
